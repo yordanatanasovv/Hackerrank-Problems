@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleAndOrange", "AppleAndO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kangoroo", "Kangoroo\Kangoroo.csproj", "{0DD78299-330D-4D36-BD20-B0D9325A73CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between Two Sets", "Between Two Sets\Between Two Sets.csproj", "{DEA7424C-C681-4213-A54C-370980AEA201}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{0DD78299-330D-4D36-BD20-B0D9325A73CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DD78299-330D-4D36-BD20-B0D9325A73CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DD78299-330D-4D36-BD20-B0D9325A73CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA7424C-C681-4213-A54C-370980AEA201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA7424C-C681-4213-A54C-370980AEA201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA7424C-C681-4213-A54C-370980AEA201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA7424C-C681-4213-A54C-370980AEA201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
